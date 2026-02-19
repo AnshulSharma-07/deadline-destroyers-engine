@@ -11,7 +11,7 @@ app = FastAPI(title="RIFT 2026: Money Muling Detection Engine")
 # In backend/main.py
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["https://your-frontend-link.vercel.app", "http://localhost:3000"],
+    allow_origins=["https://deadline-destroyers-engine-agfcqxdkt-anshul-s-projects-60183238.vercel.app"],
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
