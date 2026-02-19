@@ -17,7 +17,7 @@ const Dashboard = () => {
     formData.append('file', file);
 
     try {
-      const response = await fetch('http://localhost:8000/analyze', {
+      const response = await fetch('https://deadline-destroyers-engine.onrender.com/analyze', {
         method: 'POST',
         body: formData,
       });
