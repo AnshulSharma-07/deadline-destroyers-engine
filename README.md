@@ -2,8 +2,8 @@
 RIFT 2026 Hackathon | Money Muling Detection Track
 
 Team Name: Deadline Destroyers
-Live Demo: [INSERT_YOUR_VERCEL_URL_HERE]
-GitHub Repo: [INSERT_YOUR_GITHUB_URL_HERE]
+Live Demo: [https://deadline-destroyers-engine-b4w61010k-anshul-s-projects-60183238.vercel.app/]
+GitHub Repo: [https://deadline-destroyers-engine.onrender.com]
 
 🚀 Overview
 
